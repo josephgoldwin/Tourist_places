@@ -1,0 +1,41 @@
+{
+    "place": [
+      {
+        "image": "img/json/img2.jpg",
+        "name": "Yercaud"
+      },
+      {
+        "image": "img/json/img3.jpeg",
+        "name": "Yercaud Park"
+      },
+      {
+        "image": "img/json/img5.jpg",
+        "name": "Yercaud"
+      },
+      {
+        "image": "img/json/img6.jpeg",
+        "name": "Yercaud Room"
+      },
+      {
+        "image": "img/json/img7.jpg",
+        "name": "Yercaud Mountain"
+      },
+      {
+        "image": "img/json/img15.jpg",
+        "name": "Yercaud Banner"
+      },
+      {
+        "image": "img/json/img10.jpg",
+        "name": "yercaud Flower park"
+      },
+      {
+        "image": "img/json/waterfal.jpg",
+        "name": "Yercaud Waterfal"
+      },
+      {
+        "image": "img/json/img16.web",
+        "name": "Yercaud Lake"
+      }
+
+      ]
+    }
